@@ -49,9 +49,10 @@ mvn compile exec:java -Dexec.mainClass="br.edu.br.ifnmg.sistema_de_venda.Sistema
 ```
 
 ## 🎲 Como Usar
-1. Informe o **ID do Caixa** (cria novo se não existir).  
+1. Informe o **ID do Caixa**.  
 2. Para cada item:
-   - Informe **nome do produto** (e preço, se for novo).  
+   - Informe **nome do produto**.   
+   - Informe **preço**. 
    - Informe **quantidade**.  
    - Escolha adicionar outro produto (S/N).  
 3. Ao final, são exibidos:
