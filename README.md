@@ -1,4 +1,4 @@
-# Sistema de Venda (VendaCLI)
+# Sistema de Venda
 
 > Aplicação de linha de comando em Java para gerenciamento de vendas com armazenamento em memória.
 
@@ -38,7 +38,7 @@ Status da Venda: CONCLUIDA
 
 ## 🛠️ Instalação e Execução
 ```bash
-git clone https://seu-repositorio.git
+git clone https://github.com/JoaoKSS/Sistema-de-Venda-APS.git
 cd Sistema_de_Venda
 mvn clean package
 java -jar target/Sistema_de_Venda-1.0-SNAPSHOT.jar
