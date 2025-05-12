@@ -72,5 +72,7 @@ src/
  |   |   ├ ItemVenda.java             # Modelo de ItemVenda
  |   |   ├ Caixa.java                 # Modelo de Caixa
  |   |   └ repository/                # Repositórios singleton em memória
- └ pom.xml                              # Build e dependências (Maven)
+ ├ Documentos
+ ├ pom.xml                            # Build e dependências (Maven)                            
+ └ Readme
 ```
