@@ -65,14 +65,14 @@ mvn compile exec:java -Dexec.mainClass="br.edu.br.ifnmg.sistema_de_venda.Sistema
 src/
  ├ main/
  |   ├ java/br/edu/br/ifnmg/sistema_de_venda/
- |   |   ├ Sistema_de_Venda.java      # Classe principal
- |   |   ├ VendaController.java       # Lógica de venda (CLI)
- |   |   ├ Venda.java                 # Modelo de Venda
- |   |   ├ Produto.java               # Modelo de Produto
- |   |   ├ ItemVenda.java             # Modelo de ItemVenda
- |   |   ├ Caixa.java                 # Modelo de Caixa
- |   |   └ repository/                # Repositórios singleton em memória
+ |   |   ├ Sistema_de_Venda.java      
+ |   |   ├ VendaController.java       
+ |   |   ├ Venda.java                 
+ |   |   ├ Produto.java               
+ |   |   ├ ItemVenda.java            
+ |   |   ├ Caixa.java                 
+ |   |   └ repository/                
  ├ Documentos
- ├ pom.xml                            # Build e dependências (Maven)                            
+ ├ pom.xml                                                        
  └ Readme
 ```
